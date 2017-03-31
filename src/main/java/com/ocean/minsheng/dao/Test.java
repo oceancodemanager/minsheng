@@ -2,7 +2,7 @@ package com.ocean.minsheng.dao;
 
 /**
  * 
- * tets class
+ * tets class 2
  * 
  * @author ocean
  *
